@@ -37,7 +37,9 @@ To use OBO2Table, ensure you have the following prerequisites:
 - Flask (for the web interface)
 ## Interactive Ontology Viewer (Web Interface):
 Clone this repository:
-**Command-Line OBO to TSV Conversion:**
+
+
+```bash
 git clone https://github.com/your-username/OBO2Table.git
 cd OBO2Table
 
