@@ -41,6 +41,7 @@ Clone this repository:
 ```bash
 git clone https://github.com/your-username/OBO2Table.git
 cd OBO2Table
+```
 ## Usage
 
 **Command-Line OBO to TSV Conversion:**
